@@ -22,6 +22,7 @@ body {
   justify-content: center;
   text-align: center;
   border: 4vh solid #000000;
+  font-family: Lato;
 }
 
 .square:first-child{

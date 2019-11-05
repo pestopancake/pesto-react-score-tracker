@@ -5,8 +5,6 @@ export default class Board extends Component {
   constructor() {
     super();
     this.state = {
-      winner: null,
-      activePlayer: 0,
       squares: [
         {
           label: 0,
